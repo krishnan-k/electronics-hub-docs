@@ -18,5 +18,6 @@ Add a new product to your store.
 {% hint style="info" %}
 Use the same aspect ratio for product photos within a collection so the product grid stays even.
 {% endhint %}
+
 ![How to create a product](../images/how-to-create-a-product.png)
 
