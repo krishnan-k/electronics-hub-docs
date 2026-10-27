@@ -11,5 +11,6 @@ Create pages such as About, Contact, or Shipping.
 5. Click **Save**.
 
 To show the page in your navigation, add it to a menu. See [How to create a menu](how-to-create-a-menu.md).
+
 ![How to create a page](../images/how-to-create-a-page.png)
 

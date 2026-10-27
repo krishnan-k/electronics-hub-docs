@@ -17,5 +17,6 @@ To show the collection in the theme, select it in a section such as [Collection 
 {% hint style="info" %}
 Changing a collection title changes what shoppers see. Changing its URL handle changes the link, so Shopify offers to create a redirect.
 {% endhint %}
+
 ![How to create a collection](../images/how-to-create-a-collection.png)
 
