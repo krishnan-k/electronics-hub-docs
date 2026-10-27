@@ -8,7 +8,7 @@ How to access
 
 1. **Go to** Shopify Admin → Online Store → Themes.
 2. In the **Theme library** section, click **Add theme** → **Upload zip file**.
-3. **Choose** the theme `.zip` file from your computer and click **Upload file**.
+3. **Choose** the theme `Electronics-hub.zip` file from your computer and click **Upload file**.
 4. Once the upload is complete, click **Customize** to open the theme editor or **Publish** to make the theme live.
 
 {% hint style="info" %}
