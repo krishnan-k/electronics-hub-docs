@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Electronics Hub theme Docs
+  structure:
+    - type: section
+      key: documentation
+      title: Documentation
+      path: documentation
+      children:
+        - type: space
+          key: electronics-hub-docs
+          title: Electronics Hub
+          path: electronics-hub
+          default: true
+          content:
+            directory: ./
+            language: en
