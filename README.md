@@ -4,7 +4,7 @@ icon: microchip
 
 # Electronics Hub - Electronics & Gadgets Store
 
-**Electronics Hub** is a sleek and modern **Shopify theme** (v2.1.0, built on Shopify Horizon) designed for **electronics stores, gadget shops, mobile and accessories retailers, and tech brands**. With a clean, high-contrast design and powerful eCommerce features, **Electronics Hub** delivers a fast, seamless shopping experience that helps customers compare, choose, and buy with confidence.
+**Electronics Hub** is a sleek and modern **Shopify theme** (v2.1.0, built on Shopify) designed for **electronics stores, gadget shops, mobile and accessories retailers, and tech brands**. With a clean, high-contrast design and powerful eCommerce features, **Electronics Hub** delivers a fast, seamless shopping experience that helps customers compare, choose, and buy with confidence.
 
 ## Key Features
 
