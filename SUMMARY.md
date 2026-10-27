@@ -80,4 +80,3 @@
 * [How to create a page](how-to-create/how-to-create-a-page.md)
 * [How to create a menu](how-to-create/how-to-create-a-menu.md)
 * [How to set color to variants](how-to-create/how-to-set-color-to-varaints.md)
-
