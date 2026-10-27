@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Electronics Hub Theme Documentation](README.md)
-
 ## General
 
 * [Getting started](general/readme.md)
