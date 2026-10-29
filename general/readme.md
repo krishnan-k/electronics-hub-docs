@@ -31,7 +31,7 @@ How to access
 
 ## Support
 
-This theme is based on Shopify Horizon. For admin and platform questions, use the Shopify Help Center.
+This theme is based on Shopify. For admin and platform questions, use the Shopify Help Center.
 
 | Setting     | Description |
 | ----------- | ----------- |
