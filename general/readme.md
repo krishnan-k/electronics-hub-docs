@@ -35,6 +35,6 @@ This theme is based on Shopify Horizon. For admin and platform questions, use th
 
 | Setting     | Description |
 | ----------- | ----------- |
-| Help Center | <https://help.shopify.com> |
+| Help Center | <https://themesupport-kanhathemes.vercel.app/#contact> |
 | Theme name  | Electronics Hub |
 | Version     | 2.1.0 |
