@@ -11,5 +11,4 @@ Publish an article that can appear on the blog page and in the [Blog posts](../s
 5. Under **Blog**, choose the blog (this store uses the `news` blog).
 6. Click **Save**.
 
-![How to create a blog post](../images/how-to-create-a-blog-post.png)
-
+![How to create a blog post](../.gitbook/assets/how-to-create-a-blog-post.png)

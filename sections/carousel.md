@@ -11,19 +11,18 @@ Displays a scrolling carousel of content blocks.
 
 ### Section Settings
 
-![Carousel](../images/carousel.png)
+![Carousel](../.gitbook/assets/carousel.png)
 
-
-| Setting | Description |
-| ------- | ----------- |
-| Columns | Sets the columns. Range: 1–8. |
-| Mobile columns | Sets the mobile columns. Choose from 1 or 2. |
-| Width | Sets the width. Choose from Page or Full. |
-| Horizontal gap | Sets the horizontal gap. Range: 0–100 px. |
-| Background color | Sets the background color. |
-| Navigation |  |
-| Icon | Sets the icon for navigation. Choose from Arrows, Chevrons, Large arrows, Large chevrons, or None. |
-| Icon background | Sets the icon background. Choose from None, Circle, or Square. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
+| Setting          | Description                                                                                        |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| Columns          | Sets the columns. Range: 1–8.                                                                      |
+| Mobile columns   | Sets the mobile columns. Choose from 1 or 2.                                                       |
+| Width            | Sets the width. Choose from Page or Full.                                                          |
+| Horizontal gap   | Sets the horizontal gap. Range: 0–100 px.                                                          |
+| Background color | Sets the background color.                                                                         |
+| Navigation       |                                                                                                    |
+| Icon             | Sets the icon for navigation. Choose from Arrows, Chevrons, Large arrows, Large chevrons, or None. |
+| Icon background  | Sets the icon background. Choose from None, Circle, or Square.                                     |
+| Padding          |                                                                                                    |
+| Top              | Sets the top padding. Range: 0–100 px.                                                             |
+| Bottom           | Sets the bottom padding. Range: 0–100 px.                                                          |

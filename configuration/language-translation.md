@@ -9,7 +9,7 @@ Translate your store content and theme text into other languages.
 3. Click **Translate** next to a language to translate products, collections, pages, and theme content (use the **Translate & Adapt** app for easier editing).
 4. **Publish** the language when it is ready.
 
-![Language translation](../images/language-translation.png)
+![Language translation](../.gitbook/assets/language-translation.png)
 
 ## Theme text
 

@@ -11,7 +11,7 @@ Let customers narrow collection and search results by color, price, availability
 
 The filters appear on collection and search pages through the **Filters** block, which you can style in the theme editor.
 
-![Filters](../images/filters.png)
+![Filters](../.gitbook/assets/filters.png)
 
 ## How to access the theme settings
 
@@ -21,27 +21,27 @@ The filters appear on collection and search pages through the **Filters** block,
 
 ### Filters block settings
 
-| Setting | Description |
-| ------- | ----------- |
-| Filters | Enables or disables filters. Customize filters with the Search & Discovery app. |
-| Direction | Sets the direction. Choose from Horizontal or Vertical. |
-| Width | Sets the width. Choose from Page or Full. |
-| Text label case | Sets the text label case. Choose from Default or Uppercase. |
-| Text labels for swatches | Enables or disables text labels for swatches. |
-| Text labels for applied filters | Enables or disables text labels for applied filters. |
-| Sorting | Enables or disables sorting. |
-| Grid layout control | Enables or disables grid layout control. |
-| Appearance |  |
-| Background color | Sets the background color. |
-| Text color | Sets the text color. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
-| Left | Sets the left padding. Range: 0–100 px. |
-| Right | Sets the right padding. Range: 0–100 px. |
-| Margin |  |
-| Bottom | Sets the bottom for margin. Range: 0–100 px. |
-| Right | Sets the right for margin. Range: 0–100 px. |
+| Setting                         | Description                                                                     |
+| ------------------------------- | ------------------------------------------------------------------------------- |
+| Filters                         | Enables or disables filters. Customize filters with the Search & Discovery app. |
+| Direction                       | Sets the direction. Choose from Horizontal or Vertical.                         |
+| Width                           | Sets the width. Choose from Page or Full.                                       |
+| Text label case                 | Sets the text label case. Choose from Default or Uppercase.                     |
+| Text labels for swatches        | Enables or disables text labels for swatches.                                   |
+| Text labels for applied filters | Enables or disables text labels for applied filters.                            |
+| Sorting                         | Enables or disables sorting.                                                    |
+| Grid layout control             | Enables or disables grid layout control.                                        |
+| Appearance                      |                                                                                 |
+| Background color                | Sets the background color.                                                      |
+| Text color                      | Sets the text color.                                                            |
+| Padding                         |                                                                                 |
+| Top                             | Sets the top padding. Range: 0–100 px.                                          |
+| Bottom                          | Sets the bottom padding. Range: 0–100 px.                                       |
+| Left                            | Sets the left padding. Range: 0–100 px.                                         |
+| Right                           | Sets the right padding. Range: 0–100 px.                                        |
+| Margin                          |                                                                                 |
+| Bottom                          | Sets the bottom for margin. Range: 0–100 px.                                    |
+| Right                           | Sets the right for margin. Range: 0–100 px.                                     |
 
 ## Filters on this store
 

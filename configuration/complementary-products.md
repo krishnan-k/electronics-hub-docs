@@ -9,7 +9,7 @@ Show products that pair well with the one a customer is viewing, such as a case 
 3. Click **Add recommendations** (or open a product row) and choose the products that go with it.
 4. Click **Save**.
 
-![Complementary products](../images/complementary-products.png)
+![Complementary products](../.gitbook/assets/complementary-products.png)
 
 ## How to show them on the product page
 

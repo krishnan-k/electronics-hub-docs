@@ -10,19 +10,18 @@ Displays the bottom bar of the footer with copyright, policy links, and social i
 
 ### Section Settings
 
-![Footer utilities](../images/footer-utilities.png)
+![Footer utilities](../.gitbook/assets/footer-utilities.png)
 
-
-| Setting | Description |
-| ------- | ----------- |
-| Width | Sets the width. Choose from Page or Full. |
-| Gap | Sets the gap. Range: 0–100 px. |
-| Background color | Sets the background color. |
+| Setting           | Description                                |
+| ----------------- | ------------------------------------------ |
+| Width             | Sets the width. Choose from Page or Full.  |
+| Gap               | Sets the gap. Range: 0–100 px.             |
+| Background color  | Sets the background color.                 |
 | Divider thickness | Sets the divider thickness. Range: 0–5 px. |
-| Divider color | Sets the divider color. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
+| Divider color     | Sets the divider color.                    |
+| Padding           |                                            |
+| Top               | Sets the top padding. Range: 0–100 px.     |
+| Bottom            | Sets the bottom padding. Range: 0–100 px.  |
 
 ### Blocks
 

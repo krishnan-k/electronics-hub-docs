@@ -11,14 +11,13 @@ Displays a single product with its media and details.
 
 ### Section Settings
 
-![Featured product](../images/featured-product.png)
+![Featured product](../.gitbook/assets/featured-product.png)
 
-
-| Setting | Description |
-| ------- | ----------- |
-| Product | Selects the product to display. |
-| Media position | Sets the media position. Choose from Left or Right. |
-| Background color | Sets the background color. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
+| Setting          | Description                                         |
+| ---------------- | --------------------------------------------------- |
+| Product          | Selects the product to display.                     |
+| Media position   | Sets the media position. Choose from Left or Right. |
+| Background color | Sets the background color.                          |
+| Padding          |                                                     |
+| Top              | Sets the top padding. Range: 0–100 px.              |
+| Bottom           | Sets the bottom padding. Range: 0–100 px.           |

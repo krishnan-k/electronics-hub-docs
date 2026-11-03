@@ -11,14 +11,13 @@ Adds your own Liquid, HTML, or CSS to the page.
 
 ### Section Settings
 
-![Custom liquid](../images/custom-liquid.png)
+![Custom liquid](../.gitbook/assets/custom-liquid.png)
 
-
-| Setting | Description |
-| ------- | ----------- |
-| Liquid code | Adds custom Liquid, HTML, or CSS code (liquid code). Add app snippets or other code to create advanced customizations. Learn more. |
-| Background color | Sets the background color. |
-| Width | Sets the width. Choose from Page or Full. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
+| Setting          | Description                                                                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Liquid code      | Adds custom Liquid, HTML, or CSS code (liquid code). Add app snippets or other code to create advanced customizations. Learn more. |
+| Background color | Sets the background color.                                                                                                         |
+| Width            | Sets the width. Choose from Page or Full.                                                                                          |
+| Padding          |                                                                                                                                    |
+| Top              | Sets the top padding. Range: 0–100 px.                                                                                             |
+| Bottom           | Sets the bottom padding. Range: 0–100 px.                                                                                          |

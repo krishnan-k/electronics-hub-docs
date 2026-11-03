@@ -12,5 +12,4 @@ Create pages such as About, Contact, or Shipping.
 
 To show the page in your navigation, add it to a menu. See [How to create a menu](how-to-create-a-menu.md).
 
-![How to create a page](../images/how-to-create-a-page.png)
-
+![How to create a page](../.gitbook/assets/how-to-create-a-page.png)

@@ -11,17 +11,16 @@ Displays a continuously scrolling strip of text, icons, or logos.
 
 ### Section Settings
 
-![Marquee](../images/Marquee.png)
+![Marquee](../.gitbook/assets/Marquee.png)
 
-
-| Setting | Description |
-| ------- | ----------- |
+| Setting          | Description                                                |
+| ---------------- | ---------------------------------------------------------- |
 | Motion direction | Sets the motion direction. Choose from Forward or Reverse. |
-| Background color | Sets the background color. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
-| Gap | Sets the gap padding. Range: 0–100 px. |
+| Background color | Sets the background color.                                 |
+| Padding          |                                                            |
+| Top              | Sets the top padding. Range: 0–100 px.                     |
+| Bottom           | Sets the bottom padding. Range: 0–100 px.                  |
+| Gap              | Sets the gap padding. Range: 0–100 px.                     |
 
 ### Blocks
 
@@ -33,12 +32,12 @@ Supported theme blocks: Text, Icon, Logo. See [Theme blocks](../blocks/theme-blo
 
 Adds a divider line.
 
-| Setting | Description |
-| ------- | ----------- |
-| Thickness | Sets the thickness. Range: 0.5–5 px. |
+| Setting       | Description                                            |
+| ------------- | ------------------------------------------------------ |
+| Thickness     | Sets the thickness. Range: 0.5–5 px.                   |
 | Corner radius | Sets the corner radius. Choose from Square or Rounded. |
-| Color | Sets the color. |
-| Length | Sets the length. Range: 5–100%. |
-| Padding |  |
-| Top | Sets the top padding. Range: 0–100 px. |
-| Bottom | Sets the bottom padding. Range: 0–100 px. |
+| Color         | Sets the color.                                        |
+| Length        | Sets the length. Range: 5–100%.                        |
+| Padding       |                                                        |
+| Top           | Sets the top padding. Range: 0–100 px.                 |
+| Bottom        | Sets the bottom padding. Range: 0–100 px.              |

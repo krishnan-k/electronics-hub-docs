@@ -2,12 +2,12 @@
 
 Metafields store extra product data that the theme can display. The Electronics Hub theme reads the metafields below.
 
-| Metafield | Used for |
-| --------- | -------- |
+| Metafield                    | Used for                                                                                         |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | `custom.product_description` | Product description text shown in the **Featured product information** section on the home page. |
-| `shopify.disclosure` | Legal or compliance text shown by the **Disclosures** block on the product page. |
-| `reviews.rating` | Average rating shown by the Judge.me review badge and used in structured data. |
-| `reviews.rating_count` | Number of reviews shown beside the rating. |
+| `shopify.disclosure`         | Legal or compliance text shown by the **Disclosures** block on the product page.                 |
+| `reviews.rating`             | Average rating shown by the Judge.me review badge and used in structured data.                   |
+| `reviews.rating_count`       | Number of reviews shown beside the rating.                                                       |
 
 ## How to create a metafield definition
 
@@ -16,13 +16,13 @@ Metafields store extra product data that the theme can display. The Electronics 
 3. Enter a **Name**. The namespace and key are generated (for example `custom.product_description`).
 4. Choose the **Type** (for example Rich text or Multi-line text) and click **Save**.
 
-![Kk](../images/kk.png)
+![Kk](../.gitbook/assets/kk.png)
 
-![Metafields](../images/metafields.png)
+![Metafields](../.gitbook/assets/metafields.png)
 
-![Metafields 1](../images/metafields-1.png)
+![Metafields 1](../.gitbook/assets/metafields-1.png)
 
-![Metafields 2](../images/metafields-2.png)
+![Metafields 2](../.gitbook/assets/metafields-2.png)
 
 ## How to fill a metafield
 
