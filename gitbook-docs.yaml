@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Electronics Hub
+  title: Electronics Hub Docs
   structure:
     - type: section
       key: documentation
